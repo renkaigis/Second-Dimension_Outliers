@@ -8,13 +8,11 @@
 
 **Journal:** *International Journal of Geographical Information Science* (2025)
 
-**DOI:** [https://doi.org/10.1080/13658816.2025.2580414](https://doi.org/10.1080/13658816.2025.2580414)
-
 **Published:** 24 November 2025
 
 **Citation:**
 
-> **Ren, K., Song, Y., & Yu, Q.** (2025). Second-dimension outliers for spatial prediction. *International Journal of Geographical Information Science*, 1–28. [https://doi.org/10.1080/13658816.2025.2580414](https://doi.org/10.1080/13658816.2025.2580414)
+> **Ren, K., Song, Y.<sup>*</sup>, & Yu, Q.<sup>*</sup>** (2025). Second-dimension outliers for spatial prediction. *International Journal of Geographical Information Science*, 1–28. [https://doi.org/10.1080/13658816.2025.2580414](https://doi.org/10.1080/13658816.2025.2580414)
 
 or: 
 
