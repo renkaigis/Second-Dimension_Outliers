@@ -1,7 +1,3 @@
-没问题，按照你的要求，我将**文章引用信息、DOI、作者和资助信息**置于 README 的最顶端，这样读者一进入仓库就能直观地看到如何引用该成果。
-
----
-
 ## Second-Dimension Outliers (SDO) for Spatial Prediction
 
 ### 📜 Publication & Citation
