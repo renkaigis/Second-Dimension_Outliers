@@ -12,20 +12,22 @@
 
 **Citation:**
 
-> **Ren, K., Song, Y., & Yu, Q.** (2025). Second-dimension outliers for spatial prediction. *International Journal of Geographical Information Science*, 1–28. [https://doi.org/10.1080/13658816.2025.2580414](https://doi.org/10.1080/13658816.2025.2580414)
+> **Ren, K., Song, Y., & Yu, Q.** (2025). Second-dimension outliers for spatial prediction. *International Journal of Geographical Information Science*, 40(6), 1915–1942. [https://doi.org/10.1080/13658816.2025.2580414](https://doi.org/10.1080/13658816.2025.2580414)
 
 or: 
 
 ```bibtex
-@article{Ren2025SDO,
-  author = {Ren, K. and Song, Y. and Yu, Q.},
-  title = {Second-dimension outliers for spatial prediction},
-  journal = {International Journal of Geographical Information Science},
-  pages = {1--28},
-  year = {2025},
-  doi = {10.1080/13658816.2025.2580414}
+@article{ren2025second,
+  author    = {Kai Ren and Yongze Song and Qiang Yu},
+  title     = {Second-dimension outliers for spatial prediction},
+  journal   = {International Journal of Geographical Information Science},
+  volume    = {40},
+  number    = {6},
+  pages     = {1915--1942},
+  year      = {2026},
+  publisher = {Taylor \& Francis},
+  doi       = {10.1080/13658816.2025.2580414}
 }
-
 ```
 
 **Funding:** Supported by the China Scholarship Council (Grant No. 202206300058).
